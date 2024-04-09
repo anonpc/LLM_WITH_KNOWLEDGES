@@ -1,4 +1,4 @@
-# Large Language Model Distilling Medication Recommendation Model
+# Большая языковая модель для рекомендации лекарств при помощи дистилляции знаний
 
 "Large Language Model Distilling Medication Recommendation Model".
 
